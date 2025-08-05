@@ -1,4 +1,4 @@
-# 📰 News Web Scraper
+# News Web Scraper
 
 A simple Python script that scrapes the latest news headlines from [Al Jazeera News](https://www.aljazeera.com/news/) and saves them into a `.txt` file.
 
@@ -35,7 +35,7 @@ The `headlines.txt` will look like this:
 3. UN urges global action over spiralling climate disasters
 ...
 
-### How to Run
+## How to Run
 
 Make sure Python is installed. Then, install the required libraries:
 
